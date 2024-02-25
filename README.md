@@ -1,7 +1,7 @@
 # Stack Overflow Clone
 
 This website is a question forum and made to look like Stack Overflow.
-Here can also askk Our **Chat bot** for quick Answer.
+ 
 
 ## Technologies used:
 
@@ -11,9 +11,8 @@ Here can also askk Our **Chat bot** for quick Answer.
 - MongoDb
 - Redux
 - Json web token
-- Chatbot - {Diaflow}
 - Razorpay 
-- Gmail verification and more
+ 
 
 ## How to use?
 
@@ -43,4 +42,4 @@ This website uses icons from Remix icon.
 
 
 
-Made with by SouzeSan
+Made with by Sarakrish
