@@ -42,4 +42,4 @@ This website uses icons from Remix icon.
 
 
 
-Made with by Sarakrish
+Made with love by Sarakrish
